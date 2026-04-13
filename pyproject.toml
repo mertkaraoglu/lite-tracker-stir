@@ -7,7 +7,7 @@ name = "lite-tracker-stir"
 version = "0.1.0"
 description = "LiteTracker: Leveraging Temporal Causality for Accurate Low-latency Tissue Tracking"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.10.0"
 dependencies = [
     "asttokens==3.0.0",
     "certifi==2025.6.15",
@@ -22,8 +22,6 @@ dependencies = [
     "fonttools==4.58.4",
     "fsspec==2025.5.1",
     "idna==3.10",
-    "imageio==2.37.0",
-    "imageio-ffmpeg==0.6.0",
     "importlib-resources==6.5.2",
     "ipdb==0.13.13",
     "jedi==0.19.2",
