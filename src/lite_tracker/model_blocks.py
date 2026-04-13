@@ -11,7 +11,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-from src.model_utils import bilinear_sampler
+from lite_tracker.model_utils import bilinear_sampler
 from typing import Optional, Tuple
 
 
